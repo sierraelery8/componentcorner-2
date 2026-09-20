@@ -1,18 +1,10 @@
 # Marie Maison Interiors
 
-A luxury interior design inspired React application built with Vite.
+A luxury interior design product showcase built with React and Vite. This project demonstrates reusable React components, props, and custom CSS styling.
 
-## Project Overview
+## Preview
 
-Marie Maison Interiors is a curated home decor storefront showcasing elegant interior pieces through reusable React components.
-
-## Features
-
-- Custom Header component with store branding and navigation
-- Hero banner component with customizable content
-- Reusable ProductCard components using props
-- Styled product displays with CSS
-- Custom Footer component with store information
+Marie Maison Interiors is a modern home decor storefront featuring elegant furniture and design pieces.
 
 ## Products Featured
 
@@ -28,3 +20,25 @@ Marie Maison Interiors is a curated home decor storefront showcasing elegant int
 - CSS
 
 ## Components
+
+### Header.jsx
+- Displays the store name and navigation menu.
+- Uses props to customize the store name.
+
+### Hero.jsx
+- Creates the main banner section.
+- Uses props for the title, subtitle, and call-to-action button.
+
+### ProductCard.jsx
+- Displays individual product information.
+- Accepts props for:
+  - Product name
+  - Price
+  - Image
+  - Description
+
+### Footer.jsx
+- Displays store information and contact details.
+- Uses props for customizable footer content.
+
+## Project Structure
