@@ -1,16 +1,30 @@
-# React + Vite
+# Marie Maison Interiors
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A luxury interior design inspired React application built with Vite.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Marie Maison Interiors is a curated home decor storefront showcasing elegant interior pieces through reusable React components.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Custom Header component with store branding and navigation
+- Hero banner component with customizable content
+- Reusable ProductCard components using props
+- Styled product displays with CSS
+- Custom Footer component with store information
 
-## Expanding the ESLint configuration
+## Products Featured
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Designer Pendant Light
+- Brass Floor Mirror
+- Linen Sofa Throw
+
+## Technologies Used
+
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Components
