@@ -1,4 +1,4 @@
-# Marie Maison Interiors
+# ComponentCorner: Marie Maison Interiors
 
 A luxury interior design product showcase built with React and Vite. This project demonstrates reusable React components, props, and custom CSS styling.
 
