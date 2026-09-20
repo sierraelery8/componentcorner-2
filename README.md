@@ -1,12 +1,18 @@
 # ComponentCorner: Marie Maison Interiors
 
-A luxury interior design product showcase built with React and Vite. This project demonstrates reusable React components, props, and custom CSS styling.
+A React-based storefront built using reusable components and props.
 
-## Preview
+This project demonstrates component creation, reusable product cards, styling, and data flow in React. The original ComponentCorner storefront concept was customized into a luxury interior design collection.
 
-Marie Maison Interiors is a modern home decor storefront featuring elegant furniture and design pieces.
+## Features
 
-## Products Featured
+- Responsive header navigation
+- Hero banner with customizable content
+- Reusable ProductCard components
+- Product display section
+- Footer with store information
+
+## Featured Products
 
 - Designer Pendant Light
 - Brass Floor Mirror
@@ -22,23 +28,17 @@ Marie Maison Interiors is a modern home decor storefront featuring elegant furni
 ## Components
 
 ### Header.jsx
-- Displays the store name and navigation menu.
-- Uses props to customize the store name.
+Displays the store branding and navigation.
 
 ### Hero.jsx
-- Creates the main banner section.
-- Uses props for the title, subtitle, and call-to-action button.
+Displays the promotional banner using props.
 
 ### ProductCard.jsx
-- Displays individual product information.
-- Accepts props for:
-  - Product name
-  - Price
-  - Image
-  - Description
+Reusable product display component that accepts:
+- name
+- price
+- image
+- description
 
 ### Footer.jsx
-- Displays store information and contact details.
-- Uses props for customizable footer content.
-
-## Project Structure
+Displays store information and contact details.
